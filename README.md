@@ -4,7 +4,6 @@
 #### This project supports full CRUD operations using LocalStorage, includes filtering options, and is fully styled with CSS.
 ---
 
-- 📌<a href="https://bitashahsavan.github.io/restaurant/" rel="nofollow">Demo</a>
 - 🙋‍♀️Developed by Bita Shahsavan
 - 📧Contact with me : <a href="https://www.linkedin.com/in/bita-shahsavan-830471299/" rel="nofollow">LINKEDIN</a>
 - 📆Created : july 2023
@@ -43,26 +42,26 @@
 ---
 
 # 📂 Project Structure
-src/
-│── components/
-│     ├── Form.js
-│     ├── Todo.js
-│     └── TodoList.js
+├── components/
+│ ├── TodoForm.jsx
+│ ├── TodoItem.jsx
+│ └── TodoList.jsx
 │
-│── App.jsx
-│── index.js
-│── App.css
-│── index.css
+├── App.jsx
+├── index.js
+├── App.css
+└── index.css
+
 
 ---
 # ⚙️ Installation & Setup
-1. Clone the project:
+1. Clone the project:<Br>
 git clone https://github.com/bitashahsavan/todo_app.git
 
-2. Install dependencies:
+2. Install dependencies:<Br>
 npm install
 
-3. Start the development server:
+3. Start the development server:<Br>
 npm start
 
 
