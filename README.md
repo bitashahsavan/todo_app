@@ -39,19 +39,6 @@
 # 🛠️ Technologies Used
 . React | javascript (ES6+) | Css | LocalStorage API
 
----
-
-# 📂 Project Structure
-├── components/
-│ ├── TodoForm.jsx
-│ ├── TodoItem.jsx
-│ └── TodoList.jsx
-│
-├── App.jsx
-├── index.js
-├── App.css
-└── index.css
-
 
 ---
 # ⚙️ Installation & Setup
